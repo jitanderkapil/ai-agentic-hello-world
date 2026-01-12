@@ -1,0 +1,8 @@
+# AI Agentic Hello World - Requirements
+# This is a simple demonstration using only Python standard libraries
+# No external dependencies are required for basic functionality
+
+# For future enhancements, consider:
+# openai>=1.0.0  # For LLM integration
+# langchain>=0.1.0  # For advanced agent frameworks
+# anthropic>=0.3.0  # For Claude integration
