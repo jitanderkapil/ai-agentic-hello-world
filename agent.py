@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-AI Agentic Hello World Solution
+AI Agentic Hello World Solution by jk
 
 A simple demonstration of an autonomous AI agent that can:
 - Perceive its environment
